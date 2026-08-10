@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "id": 1,
+      "name": "Vegas RolePlay",
+      "ip": "188.138.28.118",
+      "port": 1113
+    }
+  ]
+}
