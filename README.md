@@ -1,0 +1,1 @@
+# vegas-launcher-content
